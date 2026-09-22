@@ -1,54 +1,108 @@
-<h1 align="center">Hi there, I'm Ratnam Singh! 👋</h1>
+<h1 align="center">Hi, I'm Ratnam Singh 👋</h1>
 
 <p align="center">
-  <i>Product & Plugin Developer</i>
+  <i>Product Engineer · EdTech Builder · Plugin Developer</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RatnamSingh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/RatnamSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/RatnamSingh/PTM-Product"><img src="https://img.shields.io/badge/PTM_Product-0A66C2?style=for-the-badge&logo=googleclassroom&logoColor=white" /></a>
+  <a href="https://edu-ptm.vercel.app"><img src="https://img.shields.io/badge/EduPTM-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+### About Me
 
-### 👨‍💻 About Me
+I build product-focused software for education and Parent-Teacher Meeting workflows, working across frontend, backend, integrations, and product experience.
 
-Welcome to my secondary GitHub profile! I use this account primarily for building specialized products and plugins, specifically focusing on Educational Tech and PTM systems.
-
-- 🔭 **Currently Building:** Projects like **PTM-Plugin**, **PTM-Product**, and **EduPTM**.
-- 🌱 **Learning & Exploring:** Innovative ways to build scalable products and plugins for end-users.
-- 💻 **Focus Areas:** Product Development, Plugin Architecture, and Educational Technology.
+- 🚀 **Building:** PTM-Product, PTM-Plugin, and EduPTM
+- 🎯 **Focus:** Product Engineering, EdTech, Plugin Architecture, and scalable web systems
+- 🧩 **Interested in:** Turning complex workflows into simple, intuitive products
 
 ---
 
-### 🚀 Highlighted Projects
-
-* **[PTM-Product](https://github.com/RatnamSingh/PTM-Product):** Core product development for the PTM ecosystem.
-* **[PTM-Plugin](https://github.com/RatnamSingh/PTM-Plugin):** Plugin architecture and integrations for PTM.
-* **[EduPTM](https://github.com/RatnamSingh/EduPTM):** Educational platform integration for PTM.
-
----
-
-### 📊 My GitHub Stats
+### What I Build
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RatnamSingh&show_icons=true&theme=default&hide_border=true&bg_color=e0f2fe&count_private=true&include_all_commits=true" alt="RatnamSingh's GitHub Stats" />
+    <td align="center" width="33%">
+      <h3>🏫 EdTech Products</h3>
+      <p>Build digital products that simplify school, parent, teacher, and administrative workflows.</p>
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RatnamSingh&theme=default&hide_border=true&background=e0f2fe" alt="RatnamSingh's GitHub Streak" />
+    <td align="center" width="33%">
+      <h3>🔌 Plugins & Integrations</h3>
+      <p>Create reusable plugins and integrations that extend product capabilities and connect workflows.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Full-Stack Systems</h3>
+      <p>Work across frontend, backend, databases, APIs, asynchronous processing, and real-time communication.</p>
     </td>
   </tr>
 </table>
 
-### 🛠️ Top Languages
+---
+
+### 🚀 Featured Work
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>📅 PTM-Product</b><br/>
+      <i>Django · React · Tailwind CSS</i><br/><br/>
+      Full-stack PTM platform for schools<br/>
+      Multi-tenant scheduling and booking<br/>
+      Virtual meetings/integrations<br/><br/>
+      <a href="https://github.com/RatnamSingh/PTM-Product"><img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td align="center" width="33%">
+      <b>🔌 PTM-Plugin</b><br/>
+      <i>Django · Python</i><br/><br/>
+      Reusable Django app for monoliths<br/>
+      Plugs into existing auth/profiles<br/>
+      Triggers post-booking event signals<br/><br/>
+      <a href="https://github.com/RatnamSingh/PTM-Plugin"><img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td align="center" width="33%">
+      <b>🎓 EduPTM</b><br/>
+      <i>Django · React · Celery</i><br/><br/>
+      Complete portal with SSO handling<br/>
+      Parent booking & Teacher portals<br/>
+      Admin analytics & video meetings<br/><br/>
+      <a href="https://github.com/RatnamSingh/EduPTM"><img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
+      <a href="https://edu-ptm.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RatnamSingh&layout=compact&theme=default&hide_border=true&bg_color=e0f2fe" alt="RatnamSingh's Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,tailwind,postgres,redis,git,github&perline=9" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_Ninja-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
 
-<div align="center">
-  <i>Let's connect and build something amazing together! 🚀</i>
-</div>
+### GitHub Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/RatnamSingh?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/RatnamSingh/PTM-Product?label=PTM%20Product%20Stars&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/RatnamSingh/PTM-Product?label=Latest%20PTM%20Commit&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RatnamSingh?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building thoughtful products for real-world education workflows. 🚀</i>
+</p>
