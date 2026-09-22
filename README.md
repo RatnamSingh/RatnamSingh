@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/RatnamSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/RatnamSingh/PTM-Product"><img src="https://img.shields.io/badge/PTM_Product-0A66C2?style=for-the-badge&logo=googleclassroom&logoColor=white" /></a>
-  <a href="https://edu-ptm.vercel.app"><img src="https://img.shields.io/badge/EduPTM-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ratnamsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ratnamsingh23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### About Me
